@@ -1,2 +1,15 @@
-# umi-bug
-umijs 使用 bug 复现仓库
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
